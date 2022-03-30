@@ -1,0 +1,9 @@
+<html>
+    <head>My CloudFront Test</head>
+    <body>
+        <p> Hi, this is Drishti</p>
+        <p> I completed my LAB05!!</p>
+        <p>My test content goes here.</p>
+        <p><img src="https://d4c4vvf7qkpkh.cloudfront.net/pikachu.jpg" alt="Hi, this is Pikachu.">
+    </body>
+</html>
